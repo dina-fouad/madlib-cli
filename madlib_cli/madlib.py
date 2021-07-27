@@ -1,11 +1,10 @@
-def welcome_message():
+def welcome_msg():
   print("""
   **   Welcome User!   **
   
   A number of questions will be asked. 
   Please answer all questions. 
   """)
-
 
 
 
